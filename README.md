@@ -132,6 +132,6 @@ This tutorial was created by Ramsey Banda
 
 Link to the github repository aswell as finished page link.
 
-https://github.com/DummyWoke/Challenge-5-Work-Day-Scheduler
+https://dummywoke.github.io/Challenge-17-Regex-Tutorial/
 
-https://dummywoke.github.io/Challenge-5-Work-Day-Scheduler/
+https://github.com/DummyWoke/Challenge-17-Regex-Tutorial
